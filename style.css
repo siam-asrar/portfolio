@@ -1,0 +1,46 @@
+body{
+    font-family: 'The Nautigal', cursive;
+    background-color:darkgoldenrod;
+}
+
+h1{
+    font-size: 100px;
+}
+
+.thanks{
+    font-size: 110px;
+    color: darkred;
+}
+
+h3{
+    font-size: 90px;
+}
+
+section{
+    display: flex;
+    margin: 100px;
+    background-color: bisque;
+    padding: auto;
+}
+
+.intro{
+    width: 100%;
+    background-image: linear-gradient(skyblue, tomato);
+}
+
+.intro-img{
+    width: 25%;
+}
+
+.intro-img2{
+    width: 100%;
+    box-shadow: 10px royalblue 10px rebeccapurple;
+}
+
+.fieldnation{
+    color: orange;
+}
+
+.stack-img{
+    width: 100%;
+}
